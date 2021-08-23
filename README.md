@@ -18,16 +18,16 @@ As a lower MSPB Score indicates greater value and efficiency of the Skilled Nurs
 
 ## Dashboarding in Tableau
 ### Initial Analysis for Understanding Data:
-#### Filled Map - MSPB Score by State (Mainland US)
-#### Heat Map - Average Successful Return Score by State (Mainland US)
-#### Packed Bubbles - Falls Causing Injuries by CMS Region Number
+- Filled Map - MSPB Score by State (Mainland US)
+- Heat Map - Average Successful Return Score by State (Mainland US)
+- Packed Bubbles - Falls Causing Injuries by CMS Region Number
 ### Advanced Analysis:
-#### Filled Map - Clustering of Mainland US States
-#### Scatter Plot - Correlation of different variables with MSPB Score
-#### Creation of Calculated Field / Metric - Cost per Successful Return Score (CSR Score)
+- Filled Map - Clustering of Mainland US States
+- Scatter Plot - Correlation of different variables with MSPB Score
+- Creation of Calculated Field / Metric - Cost per Successful Return Score (CSR Score)
 ### Solution:
-#### Symbol Map - Best Skilled Nursing Facilities in Mainland US (95th percentile CSR Score)
-#### Horizontal Bar Chart - Top 3 Skilled Nursing Facilities in each US State by CSR Score
+- Symbol Map - Best Skilled Nursing Facilities in Mainland US (95th percentile CSR Score)
+- Horizontal Bar Chart - Top 3 Skilled Nursing Facilities in each US State by CSR Score
 
 
 ## The Process
