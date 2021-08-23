@@ -45,6 +45,6 @@ Lastly, while creating the last dashboard to display the solution and the implem
 - Tableau Story URL - The Very Best of SNFs Around
 
 ### References:
-#### Youtube - https://www.youtube.com/watch?v=xyYLgUmae3c
-#### Data Dictionary - https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/nursing_home/NH_SNFQRP_Data_Dictionary.pdf
-#### GitHub URL - 
+- Youtube - https://www.youtube.com/watch?v=xyYLgUmae3c
+- Data Dictionary - https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/nursing_home/NH_SNFQRP_Data_Dictionary.pdf
+- GitHub URL - 
