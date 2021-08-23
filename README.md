@@ -1,15 +1,15 @@
 # SHS-SNF-Deliverable
 ## Data Overview
-Dataset source: https://data.cms.gov/provider-data/dataset/5sqm-2qku
-Volume: 600000+ rows, 15 columns
-Columns/Attributes: CMS Certification Number (CCN), Facility Name, Address, City, State, Zip Code, County Name, Phone Number, CMS Region, Measure Code, Score, Footnote, Start Date, End Date
-Attributes used for metric creation: Measure Code, Score
-For correlation, pivoted columns by Measure Code using Jupyter Notebooks
-Data dictionary source: https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/nursing_home/NH_SNFQRP_Data_Dictionary.pdf
+- Dataset source: https://data.cms.gov/provider-data/dataset/5sqm-2qku
+- Volume: 600000+ rows, 15 columns
+- Columns/Attributes: CMS Certification Number (CCN), Facility Name, Address, City, State, Zip Code, County Name, Phone Number, CMS Region, Measure Code, Score, Footnote, Start Date, End Date
+- Attributes used for metric creation: Measure Code, Score
+- For correlation, pivoted columns by Measure Code using Jupyter Notebooks
+- Data dictionary source: https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/nursing_home/NH_SNFQRP_Data_Dictionary.pdf
 
 ## Deriving and Understanding the Metric
-Metric Name – Cost per Successful Return Score (CSR Score)
-It is derived from Medicare Spending Per Beneficiary Score (MSPB Score) and Successful Return Score
+- Metric Name – Cost per Successful Return Score (CSR Score)
+- It is derived from Medicare Spending Per Beneficiary Score (MSPB Score) and Successful Return Score
 ### Formula:
 #### Cost per Successful Return Score = (1/MSPB Score) / Successful Return Score
 As a lower MSPB Score indicates greater value and efficiency of the Skilled Nursing Facility and a higher Successful Return score indicates the rate at which residents return to home and community from a SNF, a reciprocal of the former was taken to normalize both attributes. Higher the CSR Score, the more efficient the SNF is in terms of its impact on the community and its beneficiaries
@@ -42,8 +42,9 @@ While finding correlation for various variables with MSPB Score, I found that th
 Lastly, while creating the last dashboard to display the solution and the implementation of the metric, I decided to go ahead with two views: one geographical map of all the best SNFs in Mainland US, and the second one with a state-wise top 3 horizontal bar-graph solution. This was done for two different types of consumers in mind: customer who would prefer interstate travel and those who would prefer intra-state travel to find the best Skilled Nursing Facilities for their loved ones.
 
 ## References
-Tableau Story URL - The Very Best of SNFs Around
-References:
-Youtube - https://www.youtube.com/watch?v=xyYLgUmae3c
-Data Dictionary - https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/nursing_home/NH_SNFQRP_Data_Dictionary.pdf
-GitHub URL - 
+- Tableau Story URL - The Very Best of SNFs Around
+
+### References:
+#### Youtube - https://www.youtube.com/watch?v=xyYLgUmae3c
+#### Data Dictionary - https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/nursing_home/NH_SNFQRP_Data_Dictionary.pdf
+#### GitHub URL - 
