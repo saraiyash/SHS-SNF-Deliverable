@@ -42,9 +42,9 @@ While finding correlation for various variables with MSPB Score, I found that th
 Lastly, while creating the last dashboard to display the solution and the implementation of the metric, I decided to go ahead with two views: one geographical map of all the best SNFs in Mainland US, and the second one with a state-wise top 3 horizontal bar-graph solution. This was done for two different types of consumers in mind: customer who would prefer interstate travel and those who would prefer intra-state travel to find the best Skilled Nursing Facilities for their loved ones.
 
 ## References
-- Tableau Story URL - The Very Best of SNFs Around
+- Tableau Story URL - [The Very Best of SNFs Around](https://public.tableau.com/app/profile/saraiyash/viz/SNF_16294985062160/TheVeryBestofSNFsAround?publish=yes)
 
 ### References:
 - Youtube - https://www.youtube.com/watch?v=xyYLgUmae3c
 - Data Dictionary - https://data.cms.gov/provider-data/sites/default/files/data_dictionaries/nursing_home/NH_SNFQRP_Data_Dictionary.pdf
-- GitHub URL - 
+- GitHub URL - https://github.com/saraiyash/SHS-SNF-Deliverable
