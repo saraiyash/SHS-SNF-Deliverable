@@ -1,0 +1,31 @@
+NATIONAL:
+
+Overall - DONE
+
+Injuries that worsened -
+S_038_02: Percentage of residents with pressure ulcers/pressure injuries that are new or worsened
+
+Medication issues identified -	
+S_007_02: Percentage of SNF residents whose medications were reviewed and who received follow-up care when medication issues were identified
+
+Falls causing injuries during stay -
+S_013_02: Percentage of SNF residents who experience one or more falls with major injury during their SNF stay
+
+Potentially preventable readmissions -
+S_004_01: Rate of potentially preventable hospital readmissions 30 days after discharge from a SNF
+
+Change in ability to care themselves -
+S_024_02: Percentage of residents who are at or above an expected ability to care for themselves at discharge
+S_022_02: Change in residents’ ability to care for themselves
+
+Change in ability to care themselves -
+S_025_02: Percentage of residents who are at or above an expected ability to move around at discharge
+S_023_02: Change in residents’ ability to move around
+
+Successful Return - DONE
+S_005_02: Rate of successful return to home and community from a SNF
+S_005_02_DTC_OBS_RATE
+
+Cost -
+S_006_01: The Medicare Spending Per Beneficiary (MSPB) for residents in SNFs
+	
